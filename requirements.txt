@@ -61,4 +61,3 @@ xlwt==1.3.0
 xmltodict==0.12.0
 zict==2.0.0
 zope.event==4.5.0
-Cython==0.29.24
