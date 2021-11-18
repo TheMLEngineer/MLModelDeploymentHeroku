@@ -1,4 +1,4 @@
-Cython @ file:///tmp/build/80754af9/cython_1618435160151/work
+Cython==0.29.20
 appdirs==1.4.4
 argh==0.26.2
 atomicwrites==1.4.0
