@@ -41,7 +41,6 @@ ply==3.11
 pycosat==0.6.3
 pycurl==7.43.0.6
 pyforest==1.1.0
-pyodbc===4.0.0-unsupported
 pytest==6.2.3
 PyYAML==5.4.1
 pyzmq==20.0.0
